@@ -2,6 +2,7 @@
     "name": "cph-mail/laravel-mail-editor-cph",
     "description": "Laravel Mailable Editor CPH",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "alberto victoria",
